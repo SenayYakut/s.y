@@ -26,7 +26,7 @@ git clone https://github.com/SenayYakut/wiki.git
 ```
 
 ## Build status
-Build status of continus integration i.e. travis, appveyor etc. Ex. - 
+Build status of continus integration i.
 
 [![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
@@ -40,10 +40,10 @@ If you're using any code style like xo, standard etc. That will help others whil
 Include logo/demo screenshot etc.
 
 ## Tech/framework used
-Ex. -
 
 <b>Built with</b>
 - [Django](https://www.djangoproject.com/)
+- [Python](https://www.python.org/)
 
 ## Features
 What makes your project stand out?
