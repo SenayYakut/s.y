@@ -24,7 +24,7 @@ git clone https://github.com/SenayYakut/wiki.git
 ## Build status
 Build status of continus integration i.
 
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
+[![Build Status](/appveyor/build/:user/:repo)](https://travis-ci.org/akashnimare/foco)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
 
 ## Code style
