@@ -15,7 +15,7 @@ In this project, you’ll Build and Design a Wikipedia-like online encyclopedia.
 
 * [Install pip](https://pip.pypa.io/en/stable/installing/)
 
-* Once you have Pip installed, you can run `pip3 install Django` in your terminal to install Django.
+* Once you have Pip installed, you can run `pip3 install Django` in your terminal to install [Django](https://www.djangoproject.com/)
 
    
 
