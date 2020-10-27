@@ -11,10 +11,7 @@ In this project, you’ll Build and Design a Wikipedia-like online encyclopedia.
 
 ## Installation
 
-Use `git clone` to install the project on your local
-
-* Install as you would normally install a contributed Drupal module. Visit
-   https://www.drupal.org/node/895232/ for further information.
+* [Install Python](https://www.python.org/downloads/)
 
  * You may want to disable Toolbar module, since its output clashes with
    Administration Menu.
