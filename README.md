@@ -15,7 +15,7 @@ Use `git clone` to install the project on your local
 
 ## Requirements
 
-Familarity with Some basic Git commands are:
+Familiarity with Some basic Git commands are:
 ```
 git status
 git add
