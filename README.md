@@ -51,7 +51,7 @@ Include logo/demo screenshot etc.
 Ex. -
 
 <b>Built with</b>
-- [Electron](https://electron.atom.io)
+- [Django](https://www.djangoproject.com/)
 
 ## Features
 What makes your project stand out?
