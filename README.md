@@ -10,6 +10,7 @@ Each encyclopedia entry can be viewed by visiting that entry’s page. Visiting 
 
 In practice, it would start to get tedious if every page on Wikipedia had to be written in HTML. Instead, it can be helpful to store encyclopedia entries using a lighter-weight human-friendly markup language. Wikipedia happens to use a markup language called Wikitext, but for this project you’ll store encyclopedia entries using a markup language called Markdown.
 
+## Motivation
 
 
 ## Installation
@@ -31,10 +32,6 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) © [Senay Yakut]()
 
-
-
-
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
 
 ## Build status
 Build status of continus integration i.e. travis, appveyor etc. Ex. - 
