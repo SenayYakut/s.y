@@ -29,15 +29,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
-MIT © [Senay Yakut]()
+[MIT](https://choosealicense.com/licenses/mit/) © [Senay Yakut]()
 
 
-## Project title
-A little info about your project and/ or overview that explains **what** the project is about.
 
-## Motivation
+
 A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
 
 ## Build status
