@@ -11,10 +11,8 @@ In this project, you’ll Build and Design a Wikipedia-like online encyclopedia.
 
 ## Installation
 
-Install the project locally
-```bash
-git clone https://github.com/SenayYakut/wiki.git
-```
+Use `git clone` to install the project on your local
+
 
 ## Usage
 ```python
