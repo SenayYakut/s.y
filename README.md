@@ -13,6 +13,19 @@ In this project, you’ll Build and Design a Wikipedia-like online encyclopedia.
 
 Use `git clone` to install the project on your local
 
+## Requirements
+
+Familarity with Some basic Git commands are:
+```
+git status
+git add
+git commit
+git clone 
+git push
+git pull
+
+```
+
 
 ## Usage
 ```python
