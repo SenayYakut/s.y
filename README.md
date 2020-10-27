@@ -16,6 +16,7 @@ In practice, it would start to get tedious if every page on Wikipedia had to be 
 
 Install the project locally
 ```bash
+git clone https://github.com/SenayYakut/wiki.git
 ```
 
 ## Usage
