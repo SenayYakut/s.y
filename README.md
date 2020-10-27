@@ -13,8 +13,8 @@ In this project, you’ll Build and Design a Wikipedia-like online encyclopedia.
 
 * [Install Python](https://www.python.org/downloads/)
 
- * You may want to disable Toolbar module, since its output clashes with
-   Administration Menu.
+* [Install pip](https://pip.pypa.io/en/stable/installing/)
+   
 
 ## Requirements
 
