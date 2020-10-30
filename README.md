@@ -86,4 +86,4 @@ Give proper credits. This could be a link to any repo which inspired you to buil
 #### Anything else that seems useful
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/) © [Senay Yakut](https://github.com/SenayYakut/wiki(/apm/l/:packageName)
+[MIT](https://choosealicense.com/licenses/mit/) © [Senay Yakut](https://github.com/SenayYakut/wiki)(/apm/l/:packageName)
