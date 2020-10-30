@@ -43,7 +43,6 @@ python manage.py runserver
 ## Build status
 Build status of continus integration i.
 
-[(https://img.shields.io/github/status/s/pulls/senayyakut/wiki/1)]
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
 
 ## Code style
