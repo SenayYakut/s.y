@@ -36,6 +36,8 @@ git pull
 ## Usage
 ```python
 
+python manage.py runserver
+
 ```
 
 ## Build status
