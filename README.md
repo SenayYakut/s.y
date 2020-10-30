@@ -17,6 +17,12 @@ In this project, you’ll Build and Design a Wikipedia-like online encyclopedia.
 
 * Once you have Pip installed, you can run `pip3 install Django` in your terminal to install [Django](https://www.djangoproject.com/)
 
+* Run `django-admin startproject PROJECT_NAME` to create a number of starter files for our project.
+
+* Inside your project Run `python3 -m venv my_venv` in order to create a virtual environment.
+
+* Activate virtual environment `source my_venv/bin/activate` 
+
    
 
 ## Requirements
