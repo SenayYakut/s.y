@@ -23,6 +23,8 @@ In this project, you’ll Build and Design a Wikipedia-like online encyclopedia.
 
 * Activate virtual environment `source my_venv/bin/activate` 
 
+* To create an application, Run `python manage.py startapp APP_NAME`
+
    
 
 ## Requirements
